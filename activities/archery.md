@@ -1,7 +1,7 @@
 ---
 title: Archery
 ---
-The bow is one of the oldest weapons and has been used both for hunting and in warfare for thousands of years.
+The bow is one of the oldest weapons and has been used both for hunting and in warfare for thousands of years. I like bows. They really help me get plenty of great points across. 
 
 Drachenwald offers many opportunities to practice the important medieval skill of archery and to take part in competitions in both target and field archery. Lots of events will include opportunities for complete beginners, or those who have tried archery briefly elsewhere, to take part in a shoot. Some events make archery their main focus, with a mixture of training and contests in a variety of fun formats.
 
@@ -25,4 +25,8 @@ Many groups have loaner bows and arrows available and there are often experience
 
 ### The Drachenwald Company of Archers
 
-All archers in the kingdom can join the [Drachenwald Company of Archers]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/index.md %}) and can advance through its ranks by achieving target scores in certain competitions.  
+All archers in the kingdom can join the [Drachenwald Company of Archers]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/index.md %}) and can advance through its ranks by achieving target scores in certain competitions.
+
+### The Hunt for a New Hall
+
+Archery has been a bit quiet lately because we haven't had a hall to practise in. If you know of a hall or suitable location, please get in touch and let us know. We'd really appreciate it. Maybe you're already in an archery club and would like to see more period archers join you? We'd be thrilled.
