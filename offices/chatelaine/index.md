@@ -2,26 +2,28 @@
 title: Office of the Chatelaine
 subtitle: What do chatelaines do?
 ---
-<h2>What do chatelaines do?</h2>
-<p>Drachenwald chatelaines are responsible for welcoming and assisting new members and for providing information for people interested in finding out about the SCA. Please read the chatelaine job description for more details.</p>
-<h2>Resources for chatelaines</h2>
+## What do chatelaines do?
 
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/display.md %}">How to do a Display </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/handouts.md %}">Handouts </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/new-members.md %}">Helping Your Group Accept New Members </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/new-members-packet.md %}">New Member's Packet </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/old-with-new.md %}">Integrating Old with New </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/from-another-group.md %}">People who Move in from Another Group </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/teenagers.md %}">Teenagers </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/pr.md %}">Public Relations </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/media.md %}">Dealing with the Media </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/app1-demo-ideas.md %}">Appendix 1: Ideas for Demos </a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chatelaine/app2-orientation.md %}">Appendix 2: Outline for Orientation Meeting </a></li>
-</ul>
-<p>The Barony of Thescorre's <a href="http://www.thescorre.org/literature/adept/index.htm">Adept Handbook: Teaching Through Living History</a> is a useful manual on doing demos. Less demo-oriented, but good for resources for doing classes or repsentations is the <a href="http://groups.yahoo.com/group/SCAteach/">SCAteach mailing list</a>. You can also join the <a href="http://groups.yahoo.com/group/DrachenwaldChatelaines/">Chatelaine's email list</a></p>
-<h2>Information about reporting</h2>
+Drachenwald chatelaines are responsible for welcoming and assisting new members and for providing information for people interested in finding out about the SCA. Please read the chatelaine job description for more details.
 
-<p>For information on reporting, please read the <a href="{{ site.baseurl }}{% link offices/chatelaine/reporting.md %}">reporting guidelines for chatelaines</a>.</p>
+## Resources for chatelaines
+
+- [How to do a Display]({{ site.baseurl }}{% link offices/chatelaine/display.md %})
+- [Handouts]({{ site.baseurl }}{% link offices/chatelaine/handouts.md %})
+- [Helping Your Group Accept New Members]({{ site.baseurl }}{% link offices/chatelaine/new-members.md %})
+- [New Member's Packet]({{ site.baseurl }}{% link offices/chatelaine/new-members-packet.md %})
+- [Integrating Old with New]({{ site.baseurl }}{% link offices/chatelaine/old-with-new.md %})
+- [People who Move in from Another Group]({{ site.baseurl }}{% link offices/chatelaine/from-another-group.md %})
+- [Teenagers]({{ site.baseurl }}{% link offices/chatelaine/teenagers.md %})
+- [Public Relations]({{ site.baseurl }}{% link offices/chatelaine/pr.md %})
+- [Dealing with the Media]({{ site.baseurl }}{% link offices/chatelaine/media.md %})
+- [Appendix 1: Ideas for Demos]({{ site.baseurl }}{% link offices/chatelaine/app1-demo-ideas.md %})
+- [Appendix 2: Outline for Orientation Meeting]({{ site.baseurl }}{% link offices/chatelaine/app2-orientation.md %})
+
+The Barony of Thescorre's [ADEPT Demos](http://thescorre.org/documents/adept-demos) is a useful manual on doing demos.
+
+## Information about reporting
+
+For information on reporting, please read the [reporting guidelines for chatelaines]({{ site.baseurl }}{% link offices/chatelaine/reporting.md %}).
 
 {% include officer-contacts.html %}
