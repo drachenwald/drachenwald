@@ -1,8 +1,14 @@
 {% assign q = site.data.chartered_peerage.data | where: "website-section", include.group | first %}
 
+{{ q }}
+
 {% assign groupname = q.name %}
 
+{{ groupname }}
+
 {% assign people = site.data.regnum-officers | where: "group",  groupname  %}
+
+{{ people }}
 
 # Charter
 
