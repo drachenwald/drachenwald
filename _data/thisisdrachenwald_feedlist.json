@@ -462,5 +462,13 @@
     "merge": false,
     "showMedia": true,
     "type": "blog"
+  },
+  {
+    "url": "https://sca-austria.at/category/schwertkampf/feed/",
+    "name": "SCA Österreich - Schwertkampf",
+    "link": "https://sca-austria.at/category/schwertkampf/",
+    "merge": false,
+    "showMedia": true,
+    "type": "blog"
   }
 ]
