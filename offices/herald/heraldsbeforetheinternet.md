@@ -27,29 +27,9 @@ The Drachenwald site [lists those awards the king and queen can give out]({{ bas
 
 ## Order of Precedence
 
-This information goes into the Order of Precedence (OP, or 'oh-pee'). Each kingdom keeps its own records, and [ours is kept in a searchable online database](http://op.drachenwald.sca.org/). Using the OP, you can look up:
-- all the awards a person has received, using their Society name or their legal name
-- all the people who have ever received a particular award
-- the awards given by a particular king and queen, or prince and princess
-- the 'order of march', which is the way you'd queue everyone in Drachenwald up from the newest arrival to the highest ranking Crusty Old Peer ™
+This information goes into the [Order of Precedence (OP, or 'oh-pee')]({{ baseurl }}{% link offices/herald/posthorn.md %}). Each kingdom keeps its own records, and [ours is kept in a searchable online database](http://op.drachenwald.sca.org/). The OP forms part of our kingdom and principality history; you can see what happened at court at a given event, and track the official recognitions given to the populace.
 
-The OP forms part of our kingdom and principality history; you can see what happened at court at a given event, and track the official recognitions given to the populace.
-
-Because many people have passed through our kingdom, it also holds records of many other kingdoms' awards, so you can see where people have served and played outside Drachenwald.
-
-The most frequent use of the order of precedence database is to check who has what.
-
-Before you write a recommendation to their Highnesses or to their Majesties, start by checking the OP, to see if the person you're recommending already has the award. If it's not listed, then you can
-start your message to the coronet or crown.
-
-The Crown decides who to recognise based on recommendations from the people of Drachenwald. You can email their Majesties, or [send a recommendation via a form online](http://op.drachenwald.sca.org/recommend).
-
-## Fixing errors
-
-Of course, like medieval heralds, heralds and their records aren't perfect. Sometimes the court herald doesn't turn in the report right away; sometimes a planned award is delayed, or the recipient
-doesn't attend the event as expected. 
-
-If you find any mistakes (for instance, you saw an award given in court, but you can't find the record of it within a couple of weeks) you can [contact the Posthorn herald - the deputy in charge of the OP - to ask about it.](mailto:posthorn@drachenwald.sca.org)  
+If you find any mistakes (for instance, you saw an award given in court, but you can't find the record of it within a couple of weeks) you can [contact the Posthorn herald - the deputy in charge of the OP - to ask about it.](mailto:posthorn@drachenwald.sca.org)
 
 If record-keeping, researching names and painting armory, learning to blazon or organising court appeal to you, you too could have an inner herald waiting for their chance to shine. You just need to get in touch to find out how to take part. Contact your local herald or [join the Drachenwald heralds FB group](https://www.facebook.com/groups/drachenwald.heralds/)
 
