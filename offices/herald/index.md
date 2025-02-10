@@ -15,8 +15,8 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 # Welcome to Drachenwald
 * [Kingdom Awards and Orders]({{ site.baseurl }}{% link offices/herald/drachenwaldawardsorders.md %}), which explains the honours the Crown can give out
 * [Society awards and recommendations]({{ site.baseurl }}{% link offices/herald/society-awards-personal-view.md %}), a personal view about what awards do, and how to recommend people
-* [Drachenwald Order of Precedence, which includes a form for award recommendations](http://op.drachenwald.sca.org/op), the record of honours given
-* [Send a correction]({{ site.baseurl }}{% link offices/herald/submitacorrectiontoop.md %}) to the Posthorn Herald, if you spot mistakes or gaps in the order of precedence
+* [About the Drachenwald Order of Precedence]({{ site.baseurrl }}{% link offices/herald/posthorn.md %}), which explains about the OP and how to send in a correction if you spot mistakes or gaps.
+* [Drachenwald Order of Precedence](http://op.drachenwald.sca.org), which includes [a form for award recommendations](http://op.drachenwald.sca.org/recommend)
 * [Drachenwald customs: some inter-kingdom anthropology]({{ site.baseurl }}{% link offices/herald/customsandinterkingdomanthropology.md %}), for those who move here from other lands
 
 # Court and protocol
