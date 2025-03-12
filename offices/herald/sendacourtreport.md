@@ -16,7 +16,7 @@ The kingdom Chronicler publishes court reports in the newsletter, *Dragon's Tale
 
 ## Send a court report
 
-If you are serving as herald for any of the [royal family of Drachenwald]({{ site.baseurl }}{% link royals/index.html %}), after the event, write up the court by email.  Aim to send your report in the week after the event, while the court is still clear in your mind. 
+If you are serving as herald for any of the [royal family of Drachenwald]({{ site.baseurl }}{% link royals/index.html %}) or other [landed nobility of Drachenwald]({{ site.baseurl }}{% link royals/territorial-royals.md %}), after the event, write up the court by email.  Aim to send your report in the week after the event, while the court is still clear in your mind.
 
 ### Who to contact
 
@@ -26,7 +26,7 @@ If for some reason you can't use the form, send your report to the following off
 * the royals who you were serving: the Crown, the Coronet, or your baron and baroness  
 * [Posthorn Herald](mailto:posthorn@drachenwald.sca.org)  
 * the [kingdom chronicler](mailto:chronicler@drachenwald.sca.org) or any local chronicler, for example for your principality or barony  
-* the [signet]({{ site.baseurl }}{% link offices/signet/index.md %}) - the person who delegated the scroll commissions, and arranged for the scrolls to reach court. If you were officiating for the prince and princess of Insulae Draconis, for example, you send a copy to the principality signet.
+* the [signet](mailto:signet@drachenwald.sca.org) - the person who delegated the scroll commissions, and arranged for the scrolls to reach court. If you were officiating for the prince and princess of Insulae Draconis, for example, you send a copy to the principality signet.
 * [Schwarzdrachen](mailto:herald@drachenwald.sca.org) and any relevant principality or baronial herald
 
 ### What to write
