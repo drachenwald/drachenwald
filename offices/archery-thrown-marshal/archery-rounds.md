@@ -120,9 +120,9 @@ The Annual competition is split into two season’s competitions.
 
 ## Current competition
 
-Due to the long period of plague, with restrictions on gatherings, the summer competition for 2020 has not taken place. For the same reason, the winter competition for 2020/2021 has not taken place.
+Due to the long period of plague, with restrictions on gatherings, the summer/winter competitions have been cancelled for many years. But now it is high time to start these again. Therefore, the summer competition will start from now on.
 
-The competition rankings for the 2019/2020 winter competition [can be found here](https://docs.google.com/spreadsheets/d/11BDVwXBRAK033-XQSj9lmyqqZRVhZBEQGpEcOBIM87s/edit?fbclid=IwAR3mdCOeO1HLXgAAYqWBC8KdUhTZyrHapvum1nEHW3M9ImonxImEPIz24D8#gid=358402896) (Google sheet)
+The competition rankings [can be found here](https://docs.google.com/spreadsheets/d/11BDVwXBRAK033-XQSj9lmyqqZRVhZBEQGpEcOBIM87s/edit?fbclid=IwAR3mdCOeO1HLXgAAYqWBC8KdUhTZyrHapvum1nEHW3M9ImonxImEPIz24D8#gid=358402896) (Google sheet)
 
 
 ## Previous winners of the Drachenwald Competition
