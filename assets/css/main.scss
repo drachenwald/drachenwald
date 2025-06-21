@@ -111,6 +111,14 @@ $type-size-8: 0.7em !default; // ~10px
   text-align: center;
 }
 
+.right-aligned-text {
+  text-align: right;
+}
+
+.vertical-space-before {
+  padding-top: 30px;
+}
+
 .pagination {
   display: inline-block;
 }

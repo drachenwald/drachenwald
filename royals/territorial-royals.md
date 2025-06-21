@@ -2,7 +2,7 @@
 title: The Landed Nobility of Drachenwald
 exerpt: Lands held in fief to the Crown of Drachenwald
 ---
-<p align="center">
+<p class="centered-text">
 <a href="{{ site.baseurl }}{% link royals/index.html %}" class="btn btn--primary">King & Queen</a>
 {% comment %}
 <a href="{{ site.baseurl }}{% link royals/heirs.html %}" class="btn btn--primary">The Heirs</a>
