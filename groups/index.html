@@ -35,8 +35,9 @@ title: Where we are
 		{% assign grandchild_branches = groups | where: "parent", child.group %}	
 <ul>
 		{% for grandchild in grandchild_branches  %}	
-		<li><b><h4 style="font-size: 1.15em;">{{ grandchild.status }} of {{ grandchild.group }}</h4></b>
-		{% include branch_details.md branch=grandchild %}		</li>
+		<li><h4 class="display-inline-block" style="font-size: 1.15em;">{{ grandchild.status }} of {{ grandchild.group }}</h4>
+			<div>
+		{% include branch_details.md branch=grandchild %}</div>		</li>
 
 	{% endfor %}
 		</ul>
