@@ -199,6 +199,8 @@ side-offices:
       url: /peers/pelican/
     - title: Order of Defense
       url: /peers/defence/
+    - title: Order of the Mark
+      url: /peers/mark/
     - title: Academy of Defense
       url: /chartergroups/academy-of-defence/
     - title: Society of the Golden Egg
