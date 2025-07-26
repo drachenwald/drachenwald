@@ -20,7 +20,7 @@ Typically, they help 'get stuff done' in the Society, and are considered a safe 
 
 While the order does not typically act as a unit to accomplish common goals, members do support each other, and others in individual ways as appropriate, for the betterment of Drachenwald. 
 
-Advancement to the order of the Pelican is offered by the Crown, after consultation with the Order, and polling of candidates. It is a Society-wide honour, along with the other bestowed orders of the Laurel, the Chivalry, and the Order of Defense.
+Advancement to the order of the Pelican is offered by the Crown, after consultation with the Order, and polling of candidates. It is a Society-wide honour, along with the other bestowed orders of the Laurel, the Chivalry, the Order of Defense, and the Order of the Mark.
 ## What Corpora says about peers
 One reference point for choosing new peers is available from the governing documents of the Society: Corpora, part VIII.A.1 about Patents of Arms, and A.4.c about the order of the Pelican. 
 This quote of 4.c is reproduced from the 2009 version. <a href="https://www.sca.org/resources/document-library/govdocs/">https://www.sca.org/resources/document-library/govdocs/</a>
