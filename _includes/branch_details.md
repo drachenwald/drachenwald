@@ -12,9 +12,14 @@
  		
         {% assign seneschal = regnum | where: "office", "seneschal" | first %}
         {% assign chatelaine = regnum | where: "office", "chatelaine" | first %}
+        {% comment %}
+          The "Central" group has a registered Seneschal, but it should not render here.
+          When the data has become updated, we can remove the "and group.id != "Central"
+          on that line.
+        {% endcomment %}
 
-        {% if seneschal %}
- <br><strong>Seneschal:</strong>  {{ seneschal.scaname }}
+        {% if seneschal and group.id != "Central" %}
+<br><strong>Seneschal:</strong>  {{ seneschal.scaname }}
           {% unless seneschal.email == "" %} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>) {% endunless %}
             {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
         {% endif %}
