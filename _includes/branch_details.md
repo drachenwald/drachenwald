@@ -1,8 +1,9 @@
 {% assign group=include.branch %}
 {% assign regnum=site.data.regnum-officers | where: "group", group.id %}
+{% assign has_online=group.website != "" or group.facebook-page != "" or group.twitter != "" or group.instagram != "" or group.youtube != "" %}
 
 <strong>Region:</strong> {{ group.mundanely }}<br>
-        <strong>Online:</strong> {% unless group.website == "" %}<a href="{{ group.website }}">{{ group.website }} </a> {% endunless %}
+        {% if has_online != "" %}<strong>Online:</strong>{% endif %} {% unless group.website == "" %}<a href="{{ group.website }}">{{ group.website }} </a> {% endunless %}
         {% unless group.facebook-page == "" %} <a href="{{ group.facebook-page }}"><i class="fab fa-fw fa-facebook" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
         {% unless group.twitter == "" %} <a href="{{ group.twitter }}"> <i class="fab fa-fw fa-twitter" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
         {% unless group.facebook == "" %} <a href="{{ group.facebook }}"><i class="fab fa-fw fa-facebook" aria-hidden="true" style="color:blue"></i></a> {% endunless %}
