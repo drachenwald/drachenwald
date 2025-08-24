@@ -7,7 +7,7 @@ excerpt: Who keeps this online circus running?
 ## Kingdom web artificers
 
 These folks volunteer to work on the kingdom website and other IT affairs
-* Maria Harsick
+* Heleyne de Derteford
 * Yda v Boulogne
 * Menja (Mallymkun Galpin)
 * Sela de la Rosa
@@ -21,7 +21,7 @@ These folks volunteer to work on the kingdom website and other IT affairs
 
 ## Reporting for principality and local webministers
 
-Mostly, Maria would like to hear from web ministers and would like to know if there's anything you're running into that kingdom web artificers can help with. Beyond that she appreciates getting an update on major things planned or that happened.  
+Mostly, Heleyne would like to hear from web ministers and would like to know if there's anything you're running into that kingdom web artificers can help with. Beyond that, they appreciate getting an update on major things planned or that happened.
 
 ## Kingdom site issues
 
