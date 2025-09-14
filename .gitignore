@@ -28,3 +28,4 @@ dis/branches.json
 thisis/rss.xml
 thisis/thisisdrachenwald.json
 _data/thisisdrachenwald_feedlist.yaml
+.idea/*
