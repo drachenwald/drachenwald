@@ -76,9 +76,9 @@ cal2:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/drachenwaldsca"
+    - label: "Discord"
+      icon: "fab fa-fw fa-brands fa-discord"
+      url: "https://discord.gg/ceexUP8CdM"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/kingdomofdrachenwald"
