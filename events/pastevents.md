@@ -66,7 +66,7 @@ Court report information is limited to those reports submitted via the court rep
 {% endfor %}
 </table>
 
-<div style="text-align: center">
+<div class="centered-text">
   <a href="{{ site.baseurl }}{% link events/calendar/index.md %}" class="btn btn--primary">View the calendar</a>
 </div>
 

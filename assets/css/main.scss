@@ -107,6 +107,22 @@ $type-size-8: 0.7em !default; // ~10px
   max-width: 600px;
 }
 
+.centered-text {
+  text-align: center;
+}
+
+.display-inline-block {
+  display: inline-block;
+}
+
+.right-aligned-text {
+  text-align: right;
+}
+
+.vertical-space-before {
+  padding-top: 30px;
+}
+
 .pagination {
   display: inline-block;
 }
@@ -171,6 +187,15 @@ table th {
   font-size: .85em;
   letter-spacing: .1em;
   text-transform: uppercase;
+}
+
+table td h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+table.royalty-table td, table.royalty-table th {
+  vertical-align: top;
 }
 
 @media screen and (max-width: 600px) {
@@ -261,5 +286,102 @@ html {
   .navicon:before,
   .navicon:after {
     background: mix(#000, $masthead-link-color, 25%); // change color
+  }
+}
+
+/* Royalty Column Layout Utilities */
+.royalty-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.royalty-row {
+  display: flex;
+  gap: 0;
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 0;
+}
+
+/* Column order classes - applied to container */
+.royalty-container.order-default .royalty-cell:first-child {
+  order: 1;
+}
+
+.royalty-container.order-default .royalty-cell:last-child {
+  order: 2;
+}
+
+.royalty-container.order-reversed .royalty-cell:first-child {
+  order: 2;
+}
+
+.royalty-container.order-reversed .royalty-cell:last-child {
+  order: 1;
+}
+
+.royalty-cell {
+  flex: 1;
+  min-width: 0;
+  padding: 0.625em;
+  text-align: center;
+  vertical-align: top;
+}
+
+.royalty-cell h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.royalty-cell section {
+  margin-bottom: 0;
+}
+
+.chamberlain-info {
+  text-align: center;
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 0.625em;
+}
+
+.chamberlain-info p {
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .royalty-row {
+    flex-direction: column;
+    gap: 0;
+    border-bottom: 3px solid #ddd;
+    margin-bottom: 0.625em;
+  }
+
+  .royalty-cell {
+    border-bottom: 1px solid #ddd;
+    display: block;
+  }
+
+  .royalty-cell:last-child {
+    border-bottom: 0;
+  }
+
+  /* Always show Prince/Sovereign first on mobile */
+  .royalty-container .royalty-cell:first-child {
+    order: 1 !important;
+  }
+
+  .royalty-container .royalty-cell:last-child {
+    order: 2 !important;
+  }
+
+  .chamberlain-info {
+    border-top: 1px solid #ddd;
+    margin-bottom: 0.625em;
   }
 }
