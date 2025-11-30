@@ -243,6 +243,11 @@ defaults:
       officer: "equestrian-marshal"
   -
     scope:
+      path: "offices/minister-of-lists"
+    values:
+      officer: "minister-of-lists"
+  -
+    scope:
       path: "offices/moas"
     values:
       officer: "moas"
