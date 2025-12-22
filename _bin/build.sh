@@ -30,6 +30,7 @@ declare -a DisDocuments=(
   "archery_company"
   "archery_progression"
   "archery_marshal"
+  "mol_roster"
 )
 
 for word in "${DisDocuments[@]}"; do
