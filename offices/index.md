@@ -27,6 +27,8 @@ These pages provide the forms, handbooks and guidance for local and regional off
 
 * [Armoured Combat Marshal]({{ site.baseurl }}{% link offices/armoured-combat-marshal/index.md %}) looks after armoured combat, including authorisations (tests to ensure people taking part understand the rules) for participants, keeping armour and weapons guides up to date, and promoting a safe and welcoming combat environment 
 
+* [Minister of the Lists]({{ site.baseurl }}{% link offices/minister-of-lists/index.md %}) is responsible, with the help of the Marshals, for running fair tournaments, educating others in running tournaments, and maintaining a roster of trained Ministers of the Lists willing to run tournaments
+
 * [Chronicler]({{ site.baseurl }}{% link offices/chronicler/index.md %}) records events, runs the official kingdom calendar, and publishes articles from members' research and activities.
 
 * [Minister of Arts and Sciences]({{ site.baseurl }}{% link offices/moas/index.md %}) encourages the arts of peace, runs competitions and connects new craftspeople with experienced artisans on request.
