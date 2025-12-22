@@ -1,5 +1,6 @@
 ---
 title: Minister of the Lists
+excerpt: "Welcome to the page for all 'Minister of the Lists' related activity in the Kingdom of Drachenwald. Here you will find the handbook, useful forms, and tables to aid you in running tournaments."
 toc: true
 toc_label: Contents
 ---
@@ -56,7 +57,7 @@ The Minister of the Lists roster isn't available right now - please check back l
 </table>
 
 
-## Social Media
+## Online Presence
 
 [Facebook](https://www.facebook.com/groups/dwmol/)
 
