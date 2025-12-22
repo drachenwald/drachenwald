@@ -4,7 +4,7 @@
 
 {% assign regnum=site.data.regnum-officers | where: "office", page.officer %}
 
-<h1><a name="contacts"></a><br>{{ office.longname }} Points of Contact</h1>
+<h1><a id="contacts"></a><br>{{ office.longname }} Points of Contact</h1>
 
 <h2>Kingdom of Drachenwald</h2>
 
@@ -29,6 +29,7 @@
  {% endif %}
 </dl>
 
+{% unless include.regional_contacts == false %}
 <h2>Regional Contacts</h2>
 
 <dl> <!-- regional officers -->
@@ -43,7 +44,7 @@
  {% endfor %}
 
 </dl>
-
+{% endunless %}
 
 
 
