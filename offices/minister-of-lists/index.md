@@ -26,9 +26,35 @@ Please find below the latest version of the Drachenwald Minister of the List's H
 
 Below are listed the Ministers of the Lists who have made it known that they are willing to run tournaments.  Please remember that the good gentles listed below are in no way obligated and have every right to refuse. Should you be unable to contact someone listed below, please contact the Drachenwald Kingdom Minister of the Lists, who will be able to put you in touch.
 
-SCA Name, modern Name, Shire, Barony/Principality/Area
+{% if site.data['mol_roster'] %}
+{% assign mol_roster = site.data['mol_roster'].data | sort: "name" %}
 
-TODO: include table
+{% else %}
+{% assign mol_roster = "" %}
+The Minister of the Lists roster isn't available right now - please check back later.
+{% endif %}
+
+<table>
+    <thead>
+        <tr>
+            <th>SCA Name</th>
+            <th>Modern Name</th>
+            <th>Shire</th>
+            <th>Barony/Principality/Area</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for mol in mol_roster %}
+        <tr>
+            <td>{{ mol.sca-name }}</td>
+            <td>{{ mol.modern-name }}</td>
+            <td>{{ mol.principality-regional-area }}</td>
+            <td>{{ mol.local-group }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
 
 ## Social Media
 
