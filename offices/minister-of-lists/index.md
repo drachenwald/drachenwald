@@ -1,6 +1,6 @@
 ---
 title: Minister of the Lists
-excerpt: "Welcome to the page for all 'Minister of the Lists' related activity in the Kingdom of Drachenwald. Here you will find the handbook, useful forms, and tables to aid you in running tournaments."
+excerpt: "Here you will find the handbook, forms, tables, contacts and other useful resources to aid you in running tournaments"
 toc: true
 toc_label: Contents
 ---
