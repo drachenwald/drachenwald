@@ -49,8 +49,8 @@ The Minister of the Lists roster isn't available right now - please check back l
         <tr>
             <td>{{ mol.sca-name }}</td>
             <td>{{ mol.modern-name }}</td>
-            <td>{{ mol.principality-regional-area }}</td>
             <td>{{ mol.local-group }}</td>
+            <td>{{ mol.principality-regional-area }}</td>
         </tr>
         {% endfor %}
     </tbody>
