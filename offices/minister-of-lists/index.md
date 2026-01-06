@@ -21,8 +21,41 @@ The Drachenwald Kingdom Minister of the Lists is NOT responsible for:
 ## Drachenwald Minister of the List's Handbook
 
 Please find below the latest version of the Drachenwald Minister of the List's Handbook.
-[https://drive.google.com/file/d/156IvtvR17rpTH8hdAr2KV88zNpQuSd1Z/view?usp=drive_link](https://drive.google.com/file/d/156IvtvR17rpTH8hdAr2KV88zNpQuSd1Z/view?usp=drive_link)
+* <a href="https://docs.google.com/spreadsheets/d/1epz0_lq23K4CdPGwaDUM37WWvLSv6lm5/edit?usp=drive_link&ouid=118343036018355762309&rtpof=true&sd=true" target="_blank">PDF Version (August 2025)</a>
 
+## Drachenwald Minister of the List's Forms and Tables
+Please find below forms used for running tournaments.
+<table>
+        <tr>
+            <th>What</th>
+            <th>XLSX</th>
+            <th>PDF</th>
+        </tr>
+        <tr>
+            <td><B>List form</B></td>
+            <td><a href="https://docs.google.com/spreadsheets/d/1epz0_lq23K4CdPGwaDUM37WWvLSv6lm5/edit?usp=drive_link&ouid=118343036018355762309&rtpof=true&sd=true" target="_blank">Download</a></td>
+            <td><a href="https://drive.google.com/file/d/1VisJTS9c-cmWQd-WAOgTmhADk64T5eJc/view?usp=drive_link" target="_blank">Download</a>
+        </tr>
+        <tr>
+            <td><B>Round Robin table</B></td>
+            <td><a href="https://docs.google.com/spreadsheets/d/1ZhJoHAz8ZFYDwfAdnhedZ0Z2WpLjzsK1/edit?usp=drive_link&ouid=118343036018355762309&rtpof=true&sd=true" target="_blank">Download</a></td>
+            <td><a href="https://drive.google.com/file/d/1JUUwYFcXZK8XcJ-drKKh-7QuFRiJ_sEm/view?usp=drive_link" target="_blank">Download</a></td>
+        </tr>
+        <tr>
+            <td><B>Single  Elimination table</B></td>
+            <td><a href="https://docs.google.com/spreadsheets/d/1MptNhPjaEZ5lGp7MoG3KS3h182fmGfEL/edit?usp=drive_link&ouid=118343036018355762309&rtpof=true&sd=true" target="_blank">Download</a></td>
+            <td><a href="https://drive.google.com/file/d/1bZgHAp6BYgR7azpiX1x8SyRX-v9u_neK/view?usp=drive_link" target="_blank">Download</a></td>
+        </tr>
+        <tr>
+            <td><B>Double Elimination table</B></td>
+            <td><a href="https://docs.google.com/spreadsheets/d/1Arrpbr8CNH3Vh8LsYsSHCjQJmFO8t7q6/edit?usp=drive_link&ouid=118343036018355762309&rtpof=true&sd=true" target="_blank">Download</a></td>
+            <td><a href="https://drive.google.com/file/d/1mtC5KgyCSUKU4GjihQ1mlW0R-VNFteR0/view?usp=drive_link" target="_blank">Download</a></td>
+        </tr>
+    </tbody>
+</table>
+
+
+ 
 ## Ministers of the Lists Roster
 
 Below are listed the Ministers of the Lists who have made it known that they are willing to run tournaments.  Please remember that the good gentles listed below are in no way obligated and have every right to refuse. Should you be unable to contact someone listed below, please contact the Drachenwald Kingdom Minister of the Lists, who will be able to put you in touch.
