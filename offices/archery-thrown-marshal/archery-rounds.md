@@ -5,130 +5,51 @@ toc: true
 toc_label: Contents
 ---
 
-__Too long; didn't read:__ Electronic score sheets, details of archery rounds, Drachenwald annual archery competition details, and competition winners. 
-{: .notice--primary}
+# Official Competitions and Practices
+Archery events may include any form of safe competition you can imagine, in keeping with the overall spirit of recreating medieval archery. Many forms have been used in the Society over the years.  Many authentic and creative styles of competitions have developed into standard shoots within the Society.
 
-# Resources
+Only scores from official SCA events or practices may be submitted for Kingdom or Inter-Kingdom competitions or membership in the Drachenwald Company of Archers. 
+For a practice to qualify as an official SCA practice, it must be approved by the local Seneschal and run by an SCA Target Archery Marshal. It must be open to all members of the SCA without requiring membership in any other organisation or payment of any fees, barring venue hire.
+In the Drachenwald archery handbook, you will find the rules for Drachenwald's official competitions. ([Signed PDF version]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}))
 
 The [archery round quick reference]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/archery-round-quick-reference.pdf %}) (PDF) provides a quick reminder of arrow counts, distances, and ranking scores for the common competition formats in Drachenwald.
 
-These spreadsheets help in recording and submitting competition scores. Print the sheets for use during competetions. The spreadsheets automatically calculate archers totals and ranking levels for each archer. 
+These spreadsheets help in recording and submitting competition scores. Print the sheets for use during competitions. The spreadsheets automatically calculate archers' totals and ranking levels for each archer. Please be very careful to spell the name correctly and also indicate which shire the archer belongs to.
 * [Royal round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/royal-round-score-sheet.xlsx %})(.xlsx file)
 * [Portsmouth round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/portsmouth-round-score-sheet.xlsx %})(.xlsx file)
 * [Drachenwald round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald_Round.xlsx %})(.xlsx file)
+* [IKAC score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/ikac-score-sheet.xls %})(.xls file)
 
-
-The [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=10) (external link) website provides details og the standardised competition recognised across the known world.
+The [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=10) (external link) website provides details on the standardised competition recognised across the known world.
 
 # Submitting scores
-To submit scores from official events or practices, fill the appropriate scoresheet from the list above with the scores from the round and then submit these to the captain general of archers using one of the methods below:
-* Use [the archery scores submission form](https://forms.gle/PWesAAisQBrUjjBf7) to submit the scoresheets directly to the captain general. Note: to attach sheets to the form, you will need to have a google account.
-* Send an email to the captain general of archers, attaching the completed scoresheets
+To submit scores from official events or practices, fill in the appropriate scoresheet from the list above with the scores from the round and then submit these to the Captain General of Archers using one of the methods below:
+* Use [the archery scores submission form](https://forms.gle/PWesAAisQBrUjjBf7) to submit the scoresheets directly to the captain general. Note: to attach sheets to the form, you will need to have a Google account.
+* Send an email to the Captain General of Archers, attaching the completed scoresheets.
 
-# Royal Round
-
-A common outdoor competition.
-
-* Shoot at a 60cm, 5-ringed FITA target.
-* The shoot consists of four ends. The ends can take place in any order
-  * One round of six arrows at forty yards with no time limit
-  * One round of six arrows at thirty yards with no time limit
-  * One round of six arrows at twenty yards with no time limit
-  * One timed round of thirty seconds at twenty yards with unlimited arrows
-* Points are counted from one (outer white) to ten (inner gold).
-* At the beginning of the timed round, archers may have an arrow nocked, drawn and aimed. Archers releasing an arrow before the start, or after the end, of the thrity second period will lose their highest scoring arrow for that end.
-* Competition distances for children. The age of the child is counted as of the *start* of any competition
-  * Under thirteen (13) years of age
-    * Thirty, twenty, and ten yards
-  * Under ten (10) years of age
-    * Twenty, fifteen, and ten yards
-
-# Portsmouth round 
-
-A common indoor competition in Drachenwald.
-
-* Shoot at a 60cm 5-ringed FITA target.
-* Consists of ten ends with six arrows shooting from twenty yards.
-* Points are counted from one (outer white) to ten (inner gold).
-* All age groups shoot from the same distance.
-
-# Drachenwald round
-
-The Drachenwald round was devised to provide a more authentic standard competition for the Kingdom. This competition rewards both shooting skill and the use of authentic equipment. It consists of three parts.
-
-## Clout Shoot
-This is a long range, timed round which simulates military field archery. Arrows are shot into the target that represents a besieged castle or an element of enemy soldiers arrayed for battle. 
-
-* The target is a circle ten yards in **diameter** (Radius of five yards), marked on the ground. It can be made of hay bales or other suitable materials
-* Distance  from the shooting line to the closest part of the target circle is one hundred yards (100yd)
-* This is a one minute (sixty second) timed shoot with unlimited arrows
-* Arrows that fall within the circle score two points
-* An archer releasing an arrow before the start, or after the end, of the sixty second period will lose a scoring arrow from their total
-* Competition distances for children. The age of the child is counted as of the *start* of any competition
-  * Under thirteen (13) years of age will shoot from a line sixty yards from the closest part of the target
-  * Under ten (10) years of age will shoot from a line forty yards from the closest part of the target
-
-In the case where there is not sufficient space for a one hundred yard distance between shooting line and the boundary of the circle, the distance may be reduced down to a minumum of eighty yards. When reducing the distance, the **diameter** of the circle must be proportionately reduced to a minimum of eight yards.
-
-## Shooting at the mark
-This is a short-range round, based on precision, having more in common with hunting than with military archery.  
-
-* The target is a piece of plain paper, 21cm x 21cm (8¼" x 8¼")
-  * An A4 sheet of paper is 21cm wide, so if you can cut it so it is square, that is a relatively easy way to create the target.
-* The paper may be oriented on the target any way you like
-* The shoot consists of three ends
-  * One round of six arrows at forty yards with no time limit
-  * One round of six arrows at thirty yards with no time limit
-  * One round of six arrows at twenty yards with no time limit
-* Each arrow that hits the mark scores two points. This yields a maximum of thirty six points.
-* Competition distances for children. The age of the child is counted as of the *start* of any competition
-  * Under thirteen (13) years of age
-    * Thirty, twenty, and ten yards
-  * Under ten (10) years of age
-    * Twenty, fifteen, and ten yards
-   
-## Authenticity
-Using, and making, authentic equipment may also yield points for an archer. A maximum of nine points may be gained without loosing an arrow
-   * Three points are awarded to archers shooting a medieval bow design
-     * An English longbow (D shaped without a sight window)
-     * A self bow
-     * A bow which can be documented as more medieval than a modern recurve or fibreglass laminated longbow
-   * Three points are awarded for using arrows with self nocks
-   * Three points are awarded to all archers who either
-     * Have built their own bow themselves OR
-     * Have built their own period-style arrows (with self nocks and tied-on feathers)
-
- 
 # Winter/Summer Competition
-
-The Annual competition is split into two season’s competitions.
+The Annual competition is split into two seasonal competitions.
 
 ## Winter season
-
 * Runs from October Crown Tournament to April Crown Tournament
 * Competition format is a Portsmouth Round
-* Submit all scores to your regional Target Archery Marshal
 * All Shoots must take place at events or official practices
  
 ## Summer season
-
 * Runs from April Crown Tournament to October Crown Tournament
 * Competition format is a Royal Round
-* Submit all scores to your regional Target Archery Marshal
-* All Shoots must take place at events or official practices.
+* All Shoots must take place at events or official practices
 
 
 ## Current competition
-
-Due to the long period of plague, with restrictions on gatherings, the summer/winter competitions have been cancelled for many years. But now it is high time to start these again. Therefore, the summer competition will start from now on.
-
 The competition rankings [can be found here](https://docs.google.com/spreadsheets/d/11BDVwXBRAK033-XQSj9lmyqqZRVhZBEQGpEcOBIM87s/edit?fbclid=IwAR3mdCOeO1HLXgAAYqWBC8KdUhTZyrHapvum1nEHW3M9ImonxImEPIz24D8#gid=358402896) (Google sheet)
 
 
 ## Previous winners of the Drachenwald Competition
-
 <table>
 <tr><td><strong>Competition</strong></td><td><strong>Year</strong></td><td><strong>Winner</strong></td></tr>
+<tr><td>Summer</td><td>2025</td><td>?</td></tr>
+<tr><td>Summer/Winter</td><td>2020/2025</td><td>Plague</td></tr>
 <tr><td>Winter</td><td>2019/2020</td><td>Hrafn Einarsson</td></tr>
 <tr><td>Summer</td><td>2019</td><td>Vallittu af Hukka</td></tr>
 <tr><td>Winter</td><td>2018/2019</td><td>Hrafn Einarsson</td></tr>
@@ -144,4 +65,6 @@ The competition rankings [can be found here](https://docs.google.com/spreadsheet
 <tr><td>Annual</td><td>2012/2013</td><td>Pól Ó Briain</td></tr>
 <tr><td>Annual</td><td>2011/2012</td><td>Pól Ó Briain</td></tr>
 <tr><td>Annual</td><td>2010/2011</td><td>Pól Ó Briain</td></tr>
+<tr><td>Annual</td><td>2009/2010</td><td>Pól Ó Briain</td></tr>
+<tr><td>Annual</td><td>2008/2019</td><td>Pól Ó Briain</td></tr>
 </table>
