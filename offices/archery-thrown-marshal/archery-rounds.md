@@ -25,7 +25,7 @@ The [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=
 # Submitting scores
 To submit scores from official events or practices, fill in the appropriate scoresheet from the list above with the scores from the round and then submit these to the Captain General of Archers using one of the methods below:
 * Use [the archery scores submission form](https://forms.gle/PWesAAisQBrUjjBf7) to submit the scoresheets directly to the captain general. Note: to attach sheets to the form, you will need to have a Google account.
-* Send an email to the Captain General of Archers, attaching the completed scoresheets
+* Send an email to the Captain General of Archers, attaching the completed scoresheets.
 
 # Winter/Summer Competition
 The Annual competition is split into two seasonal competitions.
