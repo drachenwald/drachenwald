@@ -1,20 +1,16 @@
 ---
-title: Captain general of archers 
-excerpt: "Archery: weapon of war, pastime of nobles, and a link to the middle ages"
+title: Captain General of Archers 
+excerpt: "Archery: weapon of war, pastime of nobles, and a link to the Middle Ages"
 toc: true
 toc_label: Contents
 ---
-
-__Too long; didn't read:__ Marshal's handbooks, report forms, links to equipment,  scoresheets for archery rounds, and Drachenwald Company of Archers. Marshal contacts at bottom of the page. 
-{: .notice--primary}
-
-
+Do you want to become the next Robin Hood, Katniss Everdeen, Merida or Legolas with a bow and arrows, or throw axes, spears or knives? Then come join the Drachenwald Archery & Thrown Weapons community. Our activities are open to participants of all ages, and no previous experience is required.
 
 # Drachenwald Company of Archers
 
-The Company is designed to promote archery within the Kingdom of Drachenwald. The company run KIngdom wide competitions and track the scores of archers all over the Kingdom so that they can be recognised as their skills improve. It has been a pleasant surprise to many an archer to read in announcements or hear in Court that they have achieved a new rank with the Company of Archers! 
+The Company is designed to promote archery within the Kingdom of Drachenwald. The company run Kingdom wide competitions and tracks the scores of archers all over the Kingdom so that they can be recognised as their skills improve. It has been a pleasant surprise to many an archer to read in announcements or hear in Court that they have achieved a new rank with the Company of Archers! 
 
-They are also responsible for the education and training of archers, and for continuing historical research into archery methods, equipment and techinologies.
+They are also responsible for the education and training of archers, and for continuing historical research into archery methods, equipment and technologies.
 
 The Captain General of Archers is the head of the Company and represents the Company before the Crown, and reviews and amends a set of rules for the Company as needed.
 
@@ -24,17 +20,17 @@ The Company is open to all archers of the Kingdom of Drachenwald who meet any re
 
 # Ranks
 
-Within the Drachenwald Company of Archers there are the five ranks: Companion, Archer, Yeoman, Master Archer and Grand Master Archer. Once you have achieved a rank within the Company of Archers, it is permanent. Subsequent scores will not set you back in the rankings. 
+Within the Drachenwald Company of Archers, there are the five ranks: Companion, Archer, Yeoman, Master Archer and Grand Master Archer. Once you have achieved a rank within the Company of Archers, it is permanent. Subsequent scores will not set you back in the rankings. 
 
-* Companion: To become a Companion, an archer must complete three shoots within a two-year period. These may be any of the official Kingdom rounds as set out in the Kingdom archery rules. Archers may submit one score per official SCA event or SCA practice, or two scores from any event that is longer than five days.
-* Archer, Yeoman & Master: To become an Archer, Yeoman, or Master, an archer must complete three shoots as per the Companion rules. Additionally, each of the three scores must be at or above specific scores - these are detailed in the Company of Archers [Rules and Ranks document]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-overview-ranks.pdf %}) (and you can see the badges you learn for each rank too.)
-* Grand Master Archer The purpose of the rank of Grand Master is to promote excellence in all aspects of period archery, not just attaining high scores. New Grand Masters will be invited to join the rank following a poll of existing Grand Masters.
+* Companion: To become a Companion, an archer must complete three shoots within three calendar years. These shoots must be one of the official Kingdom rounds as set out in the Kingdom of Drachenwald Target Archery handbook. Two results per official SCA event or practice may be submitted.
+* Archer, Yeoman & Master: In addition to the requirements of a companion, three scores must be at or above specific scores. These are detailed in the Company of Archers [Rules and Ranks document]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald Company of Archers.pdf %}) (and you can see the badges you learn for each rank too.)
+* Grand Master Archer: The purpose of the rank of Grand Master is to promote excellence in all aspects of period archery, not just attaining high scores. New Grand Masters will be invited to join the rank following a poll of existing Grand Masters. Grand Masters, if not already an authoring archery marshal, will be made one. This grants them the right to authorise new Archery and Thrown Weapons Marshals. 
 
 
 # Handbooks and authorisation forms
-We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
+We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal, passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
 
-* [Society-wide target archery and thrown weapons rules (2 documents)](https://www.sca.org/resources/document-library/#target-archery) provide a baseline of equipment guidance and range safety for archery marshals within the Society.
+* [Society-wide Target Archery Marshal´s handbook and Thrown Weapons Marshal´s Handbook (2 documents)](https://www.sca.org/resources/document-library/#target-archery) provide a baseline of equipment guidance and range safety for archery marshals within the Society.
 
 * [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-policy.md %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. ([Signed PDF version]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}))
 
@@ -47,9 +43,9 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 # Reporting
 
-Use a form to submit a marshal's report for your region.
+Use a form to submit a marshal's report for your area.
 
-* [Kingdom of Drachenwald](https://forms.gle/URhRb2i2SBowT9Jd9) (Any region in the kingdom)
+* [Kingdom of Drachenwald](https://forms.gle/URhRb2i2SBowT9Jd9) (Any area in the kingdom)
 
 # Rounds
 
