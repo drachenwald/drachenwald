@@ -66,5 +66,5 @@ The competition rankings [can be found here](https://docs.google.com/spreadsheet
 <tr><td>Annual</td><td>2011/2012</td><td>Pól Ó Briain</td></tr>
 <tr><td>Annual</td><td>2010/2011</td><td>Pól Ó Briain</td></tr>
 <tr><td>Annual</td><td>2009/2010</td><td>Pól Ó Briain</td></tr>
-<tr><td>Annual</td><td>2008/2019</td><td>Pól Ó Briain</td></tr>
+<tr><td>Annual</td><td>2008/2009</td><td>Pól Ó Briain</td></tr>
 </table>
