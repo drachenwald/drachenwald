@@ -23,7 +23,7 @@ The Company is open to all archers of the Kingdom of Drachenwald who meet any re
 Within the Drachenwald Company of Archers, there are the five ranks: Companion, Archer, Yeoman, Master Archer and Grand Master Archer. Once you have achieved a rank within the Company of Archers, it is permanent. Subsequent scores will not set you back in the rankings. 
 
 * Companion: To become a Companion, an archer must complete three shoots within three calendar years. These shoots must be one of the official Kingdom rounds as set out in the Kingdom of Drachenwald Target Archery handbook. Two results per official SCA event or practice may be submitted.
-* Archer, Yeoman & Master: In addition to the requirements of a companion, three scores must be at or above specific scores. These are detailed in the Company of Archers [Rules and Ranks document]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald Company of Archers.pdf %}) (and you can see the badges you learn for each rank too.)
+* Archer, Yeoman & Master: In addition to the requirements of a companion, three scores must be at or above specific scores. These are detailed in the Company of Archers [Rules and Ranks document]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-overview-ranks.pdf %}) (and you can see the badges you learn for each rank too.)
 * Grand Master Archer: The purpose of the rank of Grand Master is to promote excellence in all aspects of period archery, not just attaining high scores. New Grand Masters will be invited to join the rank following a poll of existing Grand Masters. Grand Masters, if not already an authoring archery marshal, will be made one. This grants them the right to authorise new Archery and Thrown Weapons Marshals. 
 
 
@@ -38,7 +38,7 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 * [Drachenwald archery marshal authorisation form]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}), PDF format for offline use, for those who are teaching archery marshals
 
-* The [marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals, when supervising and teaching marshals in training.
+* The [marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals when supervising and teaching marshals in training.
 
 
 # Reporting
