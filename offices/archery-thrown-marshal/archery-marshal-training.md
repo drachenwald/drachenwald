@@ -24,7 +24,7 @@ A target archery marshal must be familiar with the rules for archery and thrown 
 
 The marshal must also be familiar with the rules for entry into the Drachenwald Company of Archers, and the rules for the main shoots (Royal round, Inter Kingdom Archery Competition [IKAC], Drachenwald round, and Portsmouth round).
 
-Target archery and thrown weapons, rules can be found on the archery and thrown weapons page on the Drachenwald website: [https://drachenwald.sca.org/offices/archery-thrown-marshal](https://drachenwald.sca.org/offices/archery-thrown-marshal/)
+Target archery and thrown weapons rules can be found on the archery and thrown weapons page on the Drachenwald website: [https://drachenwald.sca.org/offices/archery-thrown-marshal](https://drachenwald.sca.org/offices/archery-thrown-marshal/)
 
 
 # Knowledge of local laws
@@ -36,7 +36,7 @@ They should be able to set up an archery range by themselves, but start by getti
 
 
 # Equipment inspections
-A variety of different types of bows, arrows, and thrown weapons are used within Drachenwald. The marshal should be able to assess the safety of a specific piece of equipment for use. When training, describe the checks that you carry out and the methods of inspection you use to discover defects and safety issues.  Allow the marshal in training to repeat the inspection as you observe and ask them to describe the steps they take. Also, ask them to describe the action to take on finding a defect, such as a crack in the bow or arrows, missing fletching, arrows of different lengths, twisting of the bow limbs, damaged or worn string serving, etc.
+A variety of different types of bows, arrows, and thrown weapons are used within Drachenwald. The marshal should be able to assess the safety of a specific piece of equipment for use. When training, describe the checks that you carry out and the methods of inspection you use to discover defects and safety issues.  Allow the marshal-in-training to repeat the inspection as you observe, and ask them to describe the steps they take. Also, ask them to describe the action to take on finding a defect, such as a crack in the bow or arrows, missing fletching, arrows of different lengths, twisting of the bow limbs, damaged or worn string serving, etc.
 
 
 # Running the line
@@ -46,7 +46,7 @@ To start with, teach them the commands they need to know and have them assist on
 # Collecting and scoring
 Remind them about the importance of watching out for arrows in the ground and having everyone stand well clear when pulling arrows.  This is where a lot of MITs make mistakes because they get wrapped up in what is happening with the scores and start paying less attention to the archers around them, so keep a close eye.
 
-Get them to record scores for you as you call out the scores, and then have them do both.  Make sure they always record scores in order of highest scoring arrow to lowest, and record each arrow’s score and not just the end totals.
+Have them record the scores as you call them out, and then have them do both.  Make sure they always record scores in order of highest scoring arrow to lowest, and record each arrow’s score and not just the end totals.
 
 
 # Teaching the beginner
