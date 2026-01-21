@@ -32,4 +32,3 @@ Within the Drachenwald Company of Archers, there are the five ranks: Companion, 
 * [Members of the company of archers]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-ranks.md %})
 * [Progression in the company]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-progression.md %})
 
--
