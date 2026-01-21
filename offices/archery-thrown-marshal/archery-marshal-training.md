@@ -4,7 +4,7 @@ title: Archery and Thrown Weapons Marshal Training
 
 This is a short guide to help you teach MITs (Marshals in Training) to become Target Archery Marshals.  The amount of training needed will differ from MIT to MIT depending on their previous experience.  I would suggest at least 3 to 5 training sessions for an experienced archer and as many as required for someone starting.
 
-All Target Archery Marshals are officers of the SCA and shall maintain membership as required, and must own a complete set of archery equipmen,t but that is not a requirement for MITs.  They can start their training and sort out equipment and SCA membership before they become a full marshal.
+All Target Archery Marshals are officers of the SCA and shall maintain membership as required, and must own a complete set of archery equipment, but that is not a requirement for MITs.  They can start their training and sort out equipment and SCA membership before they become a full marshal.
 
 Remember, the Target Archery Marshal MUST be present for all activities. An MIT can only assist with the running of the line and inspections until they are made a marshal themselves.
 
@@ -67,7 +67,7 @@ The areas you should cover should include, but are not limited to:
 
 
 # Reporting
-All Marshals must report at least once a quarter. Talk them through how to do a report and who to report to (local captain of archers, if you have one, if not to your regional archery marshal and send a copy to local seneschal (forms on the kingdom website).  
+All Marshals must report at least once a quarter. Talk them through how to do a report and who to report to (local captain of archers, if you have one, if not to your regional archery marshal and send a copy to the local seneschal (forms on the kingdom website).  
 
 
 # Submitting score sheets
