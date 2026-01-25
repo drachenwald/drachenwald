@@ -177,9 +177,10 @@ sable, and the Master bordure gyronny sable and gules respectively.
 <table width="90%" border="0" cellspacing="0" cellpadding="0">
   <tr align="center">
     <td rowspan="5">&nbsp;</td>
-    <td>Rank 1 image</td>
+    <td><img src="(https://drachenwald.sca.org/offices/archery-thrown-marshal/files/Rank1.jpg" alt="Archer badge"/></td>
     <td rowspan="5">&nbsp;</td>
-    <td>Rank 2 image</td>
+    <td><img src="(https://drachenwald.sca.org/offices/archery-thrown-marshal/files/Rank2.jpg" alt="Yeoman badge"/></td>
+    
     <td rowspan="5">&nbsp;</td>
   </tr>
   <tr align="center">
@@ -191,8 +192,8 @@ sable, and the Master bordure gyronny sable and gules respectively.
     <td>&nbsp;</td>
   </tr>
    <tr align="center">
-    <td>Rank 3 image </td>
-    <td>Rank 4 image </td>
+    <td><img src="(https://drachenwald.sca.org/offices/archery-thrown-marshal/files/Rank3.jpg" alt="Master badge"/></td>
+    <td><img src="(https://drachenwald.sca.org/offices/archery-thrown-marshal/files/Rank4.jpg" alt="Grand Master badge"/></td>
   </tr>
   <tr align="center">
     <td>Master</td>
