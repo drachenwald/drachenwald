@@ -9,23 +9,18 @@ Do you want to become the next Robin Hood, Katniss Everdeen, Merida or Legolas w
 # Drachenwald Company of Archers
 The Company is designed to promote archery within the Kingdom of Drachenwald. The company runs Kingdom-wide competitions and tracks archers' scores, so they can be recognised as their skills improve. To find out more, check out the [Drachenwald Company of Archers page]({{ site.baseurl }}{% link offices/archery-thrown-marshal/dw-company-of-archers.md %})
 
-# Handbooks and authorisation forms
+# Marshal Handbooks
 We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal, passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
 
 * [Society-wide Target Archery and Thrown Weapons Marshal´s Handbook (2 documents)](https://www.sca.org/resources/document-library/#target-archery) provides a baseline of equipment guidance and range safety for archery marshals within the Society.
 
 * [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-policy.md %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. ([Signed PDF version]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}))
 
-* [Drachenwald archery marshal authorisation form](https://forms.gle/DJgevhkbv8vk5Ant7), online format, for those who are teaching archery marshals
-
-* [Drachenwald archery marshal authorisation form]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}), PDF format for offline use, for those who are teaching archery marshals
-
 * The [marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals when supervising and teaching marshals in training.
 
-# Reporting
-Use a form to submit a marshal's report for your area.
-
-* [Kingdom of Drachenwald](https://forms.gle/URhRb2i2SBowT9Jd9) (Any area in the kingdom)
+# Reporting and authorisation forms
+* [marshal's report](https://forms.gle/URhRb2i2SBowT9Jd9) (Any area in the kingdom)
+* Drachenwald archery marshal authorisation form [online format](https://forms.gle/DJgevhkbv8vk5Ant7), [PDF format]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}),  (for those who are teaching archery marshals)
 
 # Rounds
 [Read the rules and download the score sheets]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-rounds.md %}).
