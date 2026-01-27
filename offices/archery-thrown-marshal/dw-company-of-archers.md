@@ -174,29 +174,21 @@ Or, in pale a dragon passant coward sable and two arrows in saltire gules
 The Archer badge is decorated with an additional bordure in gules, the Yeoman bordure in
 sable, and the Master bordure gyronny sable and gules respectively.
 
-<table width="90%" border="0" cellspacing="0" cellpadding="0">
-  <tr align="center">
-    <td rowspan="5">&nbsp;</td>
-    <td><img src="{% link offices/archery-thrown-marshal/files/images/Rank1.jpg %}" alt="Archer badge"/></td>
-    <td rowspan="5">&nbsp;</td>
-    <td><img src="{% link offices/archery-thrown-marshal/files/images/Rank2.jpg %}" alt="Yeoman badge"/></td>
-    
-    <td rowspan="5">&nbsp;</td>
-  </tr>
-  <tr align="center">
-    <td>Archer</td>
-    <td>Yeoman</td>
-  </tr>
-  <tr align="center">
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-   <tr align="center">
-    <td><img src="{% link offices/archery-thrown-marshal/files/images/Rank3.jpg %}" alt="Master badge"/></td>
-    <td><img src="{% link offices/archery-thrown-marshal/files/images/Rank4.jpg %}" alt="Grand Master badge"/></td>
-  </tr>
-  <tr align="center">
-    <td>Master</td>
-    <td>Grand Master</td>
-  </tr>
-</table>
+<section id="company-badges" class="gallery">
+  <figure>
+    <img src="{% link offices/archery-thrown-marshal/files/images/Rank1.jpg %}" alt="Archer badge"/>
+    <figcaption>Archer badge</figcaption>
+  </figure>
+  <figure>
+    <img src="{% link offices/archery-thrown-marshal/files/images/Rank2.jpg %}" alt="Yeoman badge"/>
+    <figcaption>Yeoman badge</figcaption>
+  </figure>
+  <figure>
+    <img src="{% link offices/archery-thrown-marshal/files/images/Rank3.jpg %}" alt="Master badge"/>
+    <figcaption>Master badge</figcaption>
+  </figure>
+  <figure>
+    <img src="{% link offices/archery-thrown-marshal/files/images/Rank4.jpg %}" alt="Grand Master badge"/>
+    <figcaption>Grand Master badge</figcaption>
+  </figure>
+</section>
