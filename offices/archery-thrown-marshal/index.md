@@ -29,7 +29,7 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 [Read a description of the equipment]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/archery-equipment-divisions.md %}) used in Drachenwald competitions.
 
 # Marshals
-* [Warranted archery and thrown weapons marshals]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-list.md %})
+* [Roster of current Target archery and thrown weapons marshals]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-list.md %})
 
 # Social media
 * [Facebook Archers of Drachenwald](https://www.facebook.com/groups/DW.Archer/)
