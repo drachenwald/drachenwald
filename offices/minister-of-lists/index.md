@@ -21,11 +21,11 @@ The Drachenwald Kingdom Minister of the Lists is NOT responsible for:
 ## Drachenwald Minister of the List's Handbook
 
 Please find below the latest version of the Drachenwald Minister of the List's Handbook.
-* <a href="https://docs.google.com/spreadsheets/d/1epz0_lq23K4CdPGwaDUM37WWvLSv6lm5/edit?usp=drive_link&ouid=118343036018355762309&rtpof=true&sd=true" target="_blank">PDF Version (August 2025)</a>
+* <a href="https://drive.google.com/file/d/156IvtvR17rpTH8hdAr2KV88zNpQuSd1Z/view?usp=sharing" target="_blank">PDF Version (August 2025)</a>
 
 ## Drachenwald Minister of the List's Forms and Tables
 
-Please find below forms used for running tournaments.
+Please find below the forms used for running tournaments.
 
 <table>
     <thead>
