@@ -205,11 +205,12 @@ After paying, please send an e-mail to Edelweiss Herald and Kingdom Exchequer (e
 
 ```
 Kingdom of Drachenwald
-HSBC
+Bank: HSBC
 Account Number: 91484060
 Sort Code: 40-47-34
-Details for paying outside UK
 ```
+
+##### Details for paying outside UK
 
 ```
 IBAN: GB49MIDL40473491484060
