@@ -4,7 +4,7 @@ excerpt: "Archery: weapon of war, pastime of nobles, and a link to the Middle Ag
 toc: true
 toc_label: Contents
 ---
-Do you want to become the next Robin Hood, Katniss Everdeen, Merida or Legolas with a bow and arrows, or throw axes, spears or knives? Then come join the Drachenwald Archery & Thrown Weapons community. Our activities are open to participants of all ages, and no previous experience is required.
+Do you want to become the next Robin Hood, Katniss Everdeen, Merida or Legolas with a bow and arrows, or throw axes, spears or knives? Then join the Drachenwald Archery & Thrown Weapons community. Our activities are open to participants of all ages, and no previous experience is required.
 
 # Drachenwald Company of Archers
 The Company is designed to promote archery within the Kingdom of Drachenwald. The company runs Kingdom-wide competitions and tracks archers' scores, so they can be recognised as their skills improve. To find out more, check out the [Drachenwald Company of Archers page]({{ site.baseurl }}{% link offices/archery-thrown-marshal/dw-company-of-archers.md %})
@@ -17,6 +17,12 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 * [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-policy.md %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. ([Signed PDF version]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}))
 
 * The [marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals when supervising and teaching marshals in training.
+
+# Archery 101 Book
+Easy-to-understand guide to Archery that covers everything a beginner archer needs to know, helps improve your archery skills, and explains how to remain safe while doing so.
+<a href="https://drive.google.com/file/d/12Ci6pDOROn39evdiYUZpVTPZyaMxWgEf/view?usp=sharing" target="_blank"><b>'A Beginner’s Guide to Archery' (PDF)</b></a> 
+
+
 
 # Reporting and authorisation forms
 * [marshal's report](https://forms.gle/URhRb2i2SBowT9Jd9) (Any area in the kingdom)
