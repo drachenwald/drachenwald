@@ -8,6 +8,7 @@ redirect_from:
 
 {% if jekyll.environment == "production" %}
 <div  id="calendar"
+      localevents="none"
       legend="true"
       links="local"
       bidlinks="true"
@@ -15,6 +16,7 @@ redirect_from:
 <script type="text/javascript" src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js"></script>
 {% elsif jekyll.environment == "staging" %}
 <div  id="calendar"
+      localevents="none"  
       legend="true"
       links="local"
       bidlinks="true"
@@ -22,6 +24,7 @@ redirect_from:
 <script type="text/javascript" src="https://sca-drachenwald.gitlab.io/events-calendar/calendar.js"></script>
 {% elsif jekyll.environment == "development" %}
 <div  id="calendar"
+      localevents="none"
       legend="true"
       links="local"
       bidlinks="true"
