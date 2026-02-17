@@ -16,16 +16,16 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 * [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-policy.md %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. ([Signed PDF version]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}))
 
-* The [marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals when supervising and teaching marshals in training.
+* The [Marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals when supervising and teaching marshals in training.
 
 # Archery 101 Book
 Easy-to-understand guide to Archery that covers everything a beginner archer needs to know, helps improve your archery skills, and explains how to remain safe while doing so.
-<a href="https://drive.google.com/file/d/12Ci6pDOROn39evdiYUZpVTPZyaMxWgEf/view?usp=sharing" target="_blank"><b>'A Beginner’s Guide to Archery' (PDF)</b></a> 
+<a href="https://drive.google.com/file/d/12Ci6pDOROn39evdiYUZpVTPZyaMxWgEf/view?usp=sharing" target="_blank"><b>'A Beginner’s Guide to Archery' (PDF)</b></a>  by Viscount Pól ó Briain
 
 
 
 # Reporting and authorisation forms
-* [marshal's report](https://forms.gle/URhRb2i2SBowT9Jd9) (Any area in the kingdom)
+* [Marshal's report](https://forms.gle/URhRb2i2SBowT9Jd9) (Any area in the kingdom)
 * Drachenwald archery marshal authorisation form [online format](https://forms.gle/DJgevhkbv8vk5Ant7), [PDF format]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}),  (for those who are teaching archery marshals)
 
 # Rounds
