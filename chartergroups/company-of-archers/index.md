@@ -11,7 +11,7 @@ The Company is designed to promote archery within the Kingdom of Drachenwald. Th
 They are also responsible for the education and training of archers, and for continuing historical research into archery methods, equipment and technologies.
 
 # Goals of the Company
-To fulfil the aims set out in our [Charter]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald-company-archers_charter.pdf %}).
+To fulfil the aims set out in our [Charter]({{ site.baseurl }}{% link chartergroups/company-of-archers/files/drachenwald-company-archers_charter.pdf %}).
 
 # Leadership of the Company
 The Captain General of Archers is the head of the Company and represents the Company before the Crown, and reviews and amends a set of rules for the Company as needed.
@@ -24,8 +24,8 @@ The Captain General of Archers is the head of the Company and represents the Com
 * Expulsion from the Company can only be carried out by the Captain General of Archers.
 * Expulsion from the Company shall result from banishment, gross misconduct on the line or in the performance of marshal’s duties, or other similar circumstances.
 
-* [Members of the company of archers]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-ranks.md %})
-* [Progression in the company]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-progression.md %})
+* [Members of the company of archers]({{ site.baseurl }}{% link chartergroups/company-of-archers/archery-ranks.md %})
+* [Progression in the company]({{ site.baseurl }}{% link chartergroups/company-of-archers/archery-progression.md %})
 
 # Ranks
 Within the Drachenwald Company of Archers, there are the five ranks: Companion, Archer, Yeoman, Master Archer and Grand Master Archer. Once you have achieved a rank within the Company of Archers, it is permanent. Subsequent scores will not set you back in the rankings. 
@@ -176,19 +176,19 @@ sable, and the Master bordure gyronny sable and gules respectively.
 
 <section id="company-badges" class="gallery">
   <figure>
-    <img src="{% link offices/archery-thrown-marshal/files/images/Rank1.jpg %}" alt="Archer badge"/>
+    <img src="{% link chartergroups/company-of-archers/files/images/Rank1.jpg %}" alt="Archer badge"/>
     <figcaption>Archer badge</figcaption>
   </figure>
   <figure>
-    <img src="{% link offices/archery-thrown-marshal/files/images/Rank2.jpg %}" alt="Yeoman badge"/>
+    <img src="{% link chartergroups/company-of-archers/files/images/Rank2.jpg %}" alt="Yeoman badge"/>
     <figcaption>Yeoman badge</figcaption>
   </figure>
   <figure>
-    <img src="{% link offices/archery-thrown-marshal/files/images/Rank3.jpg %}" alt="Master badge"/>
+    <img src="{% link chartergroups/company-of-archers/files/images/Rank3.jpg %}" alt="Master badge"/>
     <figcaption>Master badge</figcaption>
   </figure>
   <figure>
-    <img src="{% link offices/archery-thrown-marshal/files/images/Rank4.jpg %}" alt="Grand Master badge"/>
+    <img src="{% link chartergroups/company-of-archers/files/images/Rank4.jpg %}" alt="Grand Master badge"/>
     <figcaption>Grand Master badge</figcaption>
   </figure>
 </section>

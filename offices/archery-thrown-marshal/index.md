@@ -7,7 +7,7 @@ toc_label: Contents
 Do you want to become the next Robin Hood, Katniss Everdeen, Merida or Legolas with a bow and arrows, or throw axes, spears or knives? Then join the Drachenwald Archery & Thrown Weapons community. Our activities are open to participants of all ages, and no previous experience is required.
 
 # Drachenwald Company of Archers
-The Company is designed to promote archery within the Kingdom of Drachenwald. The company runs Kingdom-wide competitions and tracks archers' scores, so they can be recognised as their skills improve. To find out more, check out the [Drachenwald Company of Archers page]({{ site.baseurl }}{% link offices/archery-thrown-marshal/dw-company-of-archers.md %})
+The Company is designed to promote archery within the Kingdom of Drachenwald. The company runs Kingdom-wide competitions and tracks archers' scores, so they can be recognised as their skills improve. To find out more, check out the [Drachenwald Company of Archers page]({{ site.baseurl }}{% link chartergroups/company-of-archers/index.md %})
 
 # Marshal Handbooks
 We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal, passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
@@ -32,7 +32,7 @@ Easy-to-understand guide to Archery that covers everything a beginner archer nee
 [Read the rules and download the score sheets]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-rounds.md %}).
 
 # Equipment divisions
-[Read a description of the equipment]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/archery-equipment-divisions.md %}) used in Drachenwald competitions.
+[Read a description of the equipment]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-equipment-divisions.md %}) used in Drachenwald competitions.
 
 # Marshals
 * [Roster of current Target archery and thrown weapons marshals]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-list.md %})
