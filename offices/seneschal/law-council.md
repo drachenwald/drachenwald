@@ -54,7 +54,12 @@ The current members of the Law Council are:
 
 # Current Proposals
 
-There are no proposed changes to Kingdom law at this time.
+## Changes to Drachenwald law sections 5, 12, and Glossary
+
+The process of changing Drachenwald law sections 5.01.1, 5.04.1.1, 5.06.10 (new), 12.02.1.2.4.2.1, 12.02.1.2.4.3, 12.02.1.2.4.2.4 (new), and Glossary:
+* 2026-05-28 In-person Curia
+* 2026-05-19 Online Curia
+* 2026-04-13 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal8_v1.md %})
 
 # Past Proposals
 
