@@ -11,7 +11,7 @@ The Company is designed to promote archery within the Kingdom of Drachenwald. Th
 They are also responsible for the education and training of archers, and for continuing historical research into archery methods, equipment and technologies.
 
 # Goals of the Company
-To fulfil the aims set out in our [Charter]({{ site.baseurl }}{% link chartergroups/company-of-archers/files/drachenwald-company-archers_charter.pdf %}).
+To fulfil the aims set out in our [Charter](https://drive.google.com/file/d/1FvfH-SShy-B1IFy90N4LT4-5F9hj0pSi/view?usp=sharing).
 
 # Leadership of the Company
 The Captain General of Archers is the head of the Company and represents the Company before the Crown, and reviews and amends a set of rules for the Company as needed.
@@ -30,7 +30,7 @@ The Captain General of Archers is the head of the Company and represents the Com
 # Ranks
 Within the Drachenwald Company of Archers, there are the five ranks: Companion, Archer, Yeoman, Master Archer and Grand Master Archer. Once you have achieved a rank within the Company of Archers, it is permanent. Subsequent scores will not set you back in the rankings. 
 
-* Companion: To become a Companion, an archer must complete three shoots within three calendar years. These shoots must be one of the official Kingdom rounds as set out in the Kingdom of Drachenwald Target Archery handbook. Two results per official SCA event or practice may be submitted.
+* Companion: To become a Companion, an archer must complete three shoots within three calendar years. These shoots must be one of the official Kingdom rounds as set out in the Kingdom of Drachenwald Target Archery handbook. Two results may be submitted per official SCA event or practice.
 * Archer, Yeoman & Master: In addition to the requirements of a companion, three scores must be at or above specific scores (listed in the tables below).
 
 <table width="90%" border="1" cellspacing="0" cellpadding="0" >
