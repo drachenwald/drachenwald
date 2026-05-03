@@ -14,15 +14,13 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 * [Society-wide Target Archery and Thrown Weapons Marshal´s Handbook (2 documents)](https://www.sca.org/resources/document-library/#target-archery) provides a baseline of equipment guidance and range safety for archery marshals within the Society.
 
-* [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-policy.md %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. ([Signed PDF version]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}))
+* [Drachenwald archery marshal's handbook](https://drive.google.com/file/d/1z9uckaf75NsrQunmCFzadXE5awng1QjZ/view?usp=drive_link), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald.
 
 * The [Marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals when supervising and teaching marshals in training.
 
 # Archery 101 Book
 Easy-to-understand guide to Archery that covers everything a beginner archer needs to know, helps improve your archery skills, and explains how to remain safe while doing so.
 <a href="https://drive.google.com/file/d/12Ci6pDOROn39evdiYUZpVTPZyaMxWgEf/view?usp=sharing" target="_blank"><b>'A Beginner’s Guide to Archery' (PDF)</b></a>  by Viscount Pól ó Briain
-
-
 
 # Reporting and authorisation forms
 * [Marshal's report](https://forms.gle/URhRb2i2SBowT9Jd9) (Any area in the kingdom)
