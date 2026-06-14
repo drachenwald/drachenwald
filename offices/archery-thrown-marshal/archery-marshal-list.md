@@ -6,7 +6,7 @@ toc_label: Contents
 ---
 
 {% if site.data['archery_marshal'] %}
-  {% assign archery_marshal = site.data['archery_marshal'].data | sort: "name" %}
+  {% assign archery_marshal = site.data['archery_marshal'].data | sort: "Name" %}
 
 {% else %}
   {% assign archery_marshal = "" %}
@@ -15,40 +15,32 @@ toc_label: Contents
 
 # Archery and thrown weapons marshals
 
+## Aarnimetsä
+
 <table>
-  <tr><td style="font-size:14pt">🏹</td><td> Archery marshal</td></tr>
-  <tr><td style="font-size:14pt">🗡️</td><td> Thrown weapons marshal</td></tr>
-  <tr><td style="font-size:14pt">📜</td><td> Authorising marshal</td></tr>
+  <tr><th>SCA Name</th><th>Archery Marshal</th><th>Thrown weapons Marshal</th><th>Authorising Marshal</th></tr>
+ {% for itemAll in archery_marshal %}{% if itemAll.area == "Aarnimetsä" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.Authorising }} </td></tr> {% endif %}{% endfor %} 
 </table>
 
-## Nordmark
+## Central
 
 <table>
-  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Authorising</th></tr>
- {% for itemAll in archery_marshal %}{% if itemAll.area == "Nordmark" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
+  <tr><th>SCA Name</th><th>Archery Marshal</th><th>Thrown weapons Marshal</th><th>Authorising Marshal</th></tr>
+ {% for itemAll in archery_marshal %}{% if itemAll.area == "Central" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.Authorising }} </td></tr> {% endif %}{% endfor %} 
 </table>
 
 ## Insulae Draconis
 
 <table>
-  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Authorising</th></tr>
- {% for itemAll in archery_marshal %}{% if itemAll.area == "Insulae Draconis" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
+  <tr><th>SCA Name</th><th>Archery Marshal</th><th>Thrown weapons Marshal</th><th>Authorising Marshal</th></tr>
+ {% for itemAll in archery_marshal %}{% if itemAll.area == "Insulae Draconis" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.Authorising }} </td></tr> {% endif %}{% endfor %} 
 </table>
 
-## Aarnimetsä
+## Nordmark
 
 <table>
-  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Authorising</th></tr>
- {% for itemAll in archery_marshal %}{% if itemAll.area == "Aarnimetsä" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
+  <tr><th>SCA Name</th><th>Archery Marshal</th><th>Thrown weapons Marshal</th><th>Authorising Marshal</th></tr>
+ {% for itemAll in archery_marshal %}{% if itemAll.area == "Nordmark" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.Authorising }} </td></tr> {% endif %}{% endfor %} 
 </table>
-
-
-## Central
-
-<table>
-  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Authorising</th></tr>
- {% for itemAll in archery_marshal %}{% if itemAll.area == "Central" %} <tr><td> {{ itemAll.name }} </td><td style="font-size:14pt"> {{ itemAll['target-archery'] }} </td><td style="font-size:14pt"> {{ itemAll['thrown-weapons'] }} </td><td style="font-size:14pt"> {{ itemAll.warranting }} </td></tr> {% endif %}{% endfor %} 
-</table>
-
 
 Data last updated: {{site.data['archery-marshals'].metadata.LastUpdate}}
