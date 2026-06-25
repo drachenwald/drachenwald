@@ -110,3 +110,4 @@ A.S. is _Anno Societatis_, the Society year, which numbers from 1 May, 1966, the
 * LXII 2024-2 William and Isabetta, AS LIX
 * LXIII 2025-1 Æríkr and Jacquelyna, AS LIX
 * LXIV 2025-2 Krake and Beatrix, AS LX
+* LXV 2026-1 Tuomas and Gilbert, AS LX
