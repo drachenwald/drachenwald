@@ -12,17 +12,16 @@ Only scores from official SCA events or practices may be submitted for Kingdom o
 For a practice to qualify as an official SCA practice, it must be approved by the local Seneschal and run by an SCA Target Archery Marshal. It must be open to all members of the SCA without requiring membership in any other organisation or payment of any fees, barring venue hire.
 In the Drachenwald archery handbook, you will find the rules for Drachenwald's official competitions. ([Signed PDF version](https://drive.google.com/file/d/1z9uckaf75NsrQunmCFzadXE5awng1QjZ/view?usp=drive_link))
 
-The [archery round quick reference]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/archery-round-quick-reference.pdf %}) (PDF) provides a quick reminder of arrow counts, distances, and ranking scores for the common competition formats in Drachenwald.
-
 These spreadsheets help in recording and submitting competition scores. Print the sheets for use during competitions. The spreadsheets automatically calculate archers' totals and ranking levels for each archer. Please be very careful to spell the name correctly and also indicate which shire the archer belongs to.
 * [Royal round score sheet](https://docs.google.com/spreadsheets/d/1XBMFQF7wauHBzZR_bP6ECk5nObFTRgKe/edit?usp=sharing&ouid=107960868773431014206&rtpof=true&sd=true) (.xlsx file)
 * [Static Royal round score sheet](https://docs.google.com/spreadsheets/d/1oF3CaO7UaaPN7CdnPc5SEljS4lUnOU6p/edit?usp=sharing&ouid=107960868773431014206&rtpof=true&sd=true) (.xlsx file)
 * [Portsmouth round score sheet](https://docs.google.com/spreadsheets/d/1NBQOHWd8OW0PGaFHv0Y2nfcLNwZN0m7D/edit?usp=sharing&ouid=107960868773431014206&rtpof=true&sd=true) (.xlsx file)
 * [Drachenwald round score sheet](https://docs.google.com/spreadsheets/d/1mPYNpVeVoHj-Uqx9cje1JqMUMl_-xKWT/edit?usp=sharing&ouid=107960868773431014206&rtpof=true&sd=true) (.xlsx file)
 * [IKAC score sheet](https://docs.google.com/spreadsheets/d/1NmfavVqxMq7CnWhbZgwVb_vrR-FMun9I/edit?usp=sharing&ouid=107960868773431014206&rtpof=true&sd=true) (.xlsx file)
+* [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=10) (external link)
 
-The [Inter-Kingdom Archery Competition](https://scores-sca.org/home/index.php?R=10) (external link) website provides details on the standardised competition recognised across the known world.
-
+* [Archery Quick Reference Sheet](https://drive.google.com/file/d/1aa4Jp7eV_HNS3TScEBF9fQSzEQvAH6Od/view?usp=sharing) (.PDF file) Single sheet containing all arrow counts, distances, and ranking scores for DW shoots.
+  
 # Submitting scores
 To submit scores from official events or practices, fill in the appropriate scoresheet from the list above with the scores from the round and then submit these to the Captain General of Archers using one of the methods below:
 * Use [the archery scores submission form](https://forms.gle/PWesAAisQBrUjjBf7) to submit the scoresheets directly to the captain general. Note: to attach sheets to the form, you will need to have a Google account.
@@ -49,8 +48,10 @@ The competition rankings [can be found here](https://docs.google.com/spreadsheet
 ## Previous winners of the Drachenwald Competition
 <table>
 <tr><td><strong>Competition</strong></td><td><strong>Year</strong></td><td><strong>Winner</strong></td></tr>
+<tr><td>Summer</td><td>2026</td><td>In Progress</td></tr>
+<tr><td>Winter</td><td>2026</td><td>?</td></tr>
 <tr><td>Summer</td><td>2025</td><td>?</td></tr>
-<tr><td>Summer/Winter</td><td>2020/2025</td><td>Plague</td></tr>
+<tr><td>Summer/Winter</td><td>2020/2025</td><td>Supended due to Plague</td></tr>
 <tr><td>Winter</td><td>2019/2020</td><td>Hrafn Einarsson</td></tr>
 <tr><td>Summer</td><td>2019</td><td>Vallittu af Hukka</td></tr>
 <tr><td>Winter</td><td>2018/2019</td><td>Hrafn Einarsson</td></tr>
