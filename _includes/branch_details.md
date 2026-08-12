@@ -3,7 +3,7 @@
 
 {% assign has_online = false %}
 
-{% if group.website != "" or group.facebook-page != "" or group.facebook != "" or group.twitter != "" or group.instagram != "" or group.youtube != "" %}
+{% if group.website != "" or group.facebook-page != "" or group.facebook != "" or group.twitter != "" or group.instagram != "" or group.discord != "" or group.youtube != "" %}
     {% assign has_online = true %}
 {% endif %}
 
