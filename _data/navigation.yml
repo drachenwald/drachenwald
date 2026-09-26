@@ -43,7 +43,7 @@ side:
   url: /offices/
 
 - title: Diversity & Inclusion
-  url: /offices/seneschal/diversity-equity-inclusion-council/
+  url: /offices/deib/
 
 - title: Search
   url: /search/
@@ -89,7 +89,7 @@ side-whatwedo:
   url: /offices/
 
 - title: Diversity & Inclusion
-  url: /offices/seneschal/diversity-equity-inclusion-council/
+  url: /offices/deib/
 
 - title: Search
   url: /search/
@@ -128,7 +128,7 @@ side-royals:
   url: /offices/
 
 - title: Diversity & Inclusion
-  url: /offices/seneschal/diversity-equity-inclusion-council/
+  url: /offices/deib/
 
 - title: Search
   url: /search/
@@ -161,6 +161,8 @@ side-offices:
   children:
     - title: Seneschal
       url: /offices/seneschal/
+    - title: DEIB
+      url: /offices/deib/
     - title: Exchequer
       url: /offices/exchequer/
     - title: Chatelaine
@@ -221,7 +223,7 @@ side-offices:
       url: /chartergroups/armourers-guild/            
       
 - title: Diversity & Inclusion
-  url: /offices/seneschal/diversity-equity-inclusion-council/
+  url: /offices/deib/
 
 - title: Search
   url: /search/
