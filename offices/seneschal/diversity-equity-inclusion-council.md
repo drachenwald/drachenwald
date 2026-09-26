@@ -5,9 +5,12 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-This council will work with the Kingdom Seneschal office to encourage and promote diversity, equity and inclusion in the Kingdom, offer training and raise awareness, and advise as required in cases of complaint relating to a breach of the Code of Conduct. 
+**The Diversity, Equity and Inclusion Council has been disbanded.** Its responsibilities have passed to the Diversity, Equity, Inclusion and Belonging (DEIB) Officer. Please see the [DEIB Officer]({{ site.baseurl }}{% link offices/deib/index.md %}) page for current information, and contact deib@drachenwald.sca.org with any questions.
+{: .notice--warning}
 
-The council can be contacted at dei@drachenwald.sca.org. All and any contacts must be made at that email address, and not using the council members’ personal email addresses or their personal social media accounts.
+The information below is kept for historical reference.
+
+This council worked with the Kingdom Seneschal office to encourage and promote diversity, equity and inclusion in the Kingdom, offer training and raise awareness, and advise as required in cases of complaint relating to a breach of the Code of Conduct. 
 
 ## Purpose
 
@@ -59,7 +62,7 @@ The council members operate independent of their SCA personae, ranks, titles, or
 * [Drachenwald Code of Conduct](https://docs.google.com/document/d/1bDwTQhcttGmnhjwplWDm9IiuBM4XHFofDnR1gUf6MU0/view) (Google Docs)
 
 
-## Current DEI council
+## Former DEI council members
 
 André Corterier, Germany (Lord Walter von Are, Barony of Knights Crossing)
 : André has been involved in the SCA for 20 years. He is happy to be part of a diverse society and conscious that keeping it welcoming to everybody takes care. As one of his roles in mundane life, he is a Diversity & Inclusion Ambassador. Walter is squire to Duke Lief Wolfsonne.
