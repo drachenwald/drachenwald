@@ -5,6 +5,11 @@ redirect_from:
 ---
 [Past Events]({{ site.baseurl }}{% link events/pastevents.md %})
 
+* [Nordmark (Sweden) full calendar, including local activities ](https://nordmark.org/kalendarium/nordmarks-kalender/#/)
+* [Aarnimetsä (Finland) full calendar, including local activities](https://www.aarnimetsa.org/tapahtumakalenteri/#/)
+* [Insulae Draconis (UK and Ireland) full calendar, including local activities](https://insulaedraconis.org/events/#/)
+* [Central Region (rest of Europe), full calendar, including local activities](https://central.drachenwald.org)
+
 
 {% if jekyll.environment == "production" %}
 <div  id="calendar"
