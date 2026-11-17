@@ -44,7 +44,7 @@ redirect_from:
     document.getElementById("internetexplorer").innerHTML = "<p>To give our users the functionality they need, we're unable to display the calendar in Internet Explorer. Please use another browser, or your phone. If you have feedback, please email <a href='mailto:webminister@drachenwald.sca.org'>webminister@drachenwald.sca.org</a>.</p>";
   }
 
-  if ( userAgent.indexOf('MSIE') > 0 ) {
+  if ( navigator.userAgent.indexOf('MSIE') > 0 ) {
     document.getElementById("internetexplorer").innerHTML = "<p>To give our users the functionality they need, we're unable to display the calendar in Internet Explorer. Please use another browser, or your phone. If you have feedback, please email <a href='mailto:webminister@drachenwald.sca.org'>webminister@drachenwald.sca.org</a>.</p>";
   }
 
