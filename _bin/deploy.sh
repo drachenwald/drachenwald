@@ -13,18 +13,13 @@ then
   then
     echo "Building main site"
     JEKYLL_ENV=production bundle exec jekyll build -d public
-    rsync -rvzc --exclude '.htaccess' --delete -e 'ssh -p 45333' public/ $WEBHOST_OVH:drach-main/public/
+    rsync -rvzc --exclude '.htaccess' --exclude '.htaccess-docker' --delete -e 'ssh -p 45333' public/ $WEBHOST_OVH:drach-main/public/
     rsync -rvzc --delete -e 'ssh -p 45333' public/.htaccess $WEBHOST_OVH:drach-main/
   elif [ "$GITHUB_REF_NAME" == "staging" ]
   then
     echo "Building staging site"
     JEKYLL_ENV=staging bundle exec jekyll build -d public
-    rsync -rvzc --exclude '.htaccess' --delete -e 'ssh -p 45333' public/ $WEBHOST_OVH:drach-staging/public/
-    rsync -rvzc --delete -e 'ssh -p 45333' public/.htaccess $WEBHOST_OVH:drach-staging/
-  else
-    echo "Taking over staging site with ${GITHUB_REF_NAME}"
-    JEKYLL_ENV=development bundle exec jekyll build -d public
-    rsync -rvzc --exclude '.htaccess' --delete -e 'ssh -p 45333' public/ $WEBHOST_OVH:drach-staging/public/
+    rsync -rvzc --exclude '.htaccess' --exclude '.htaccess-docker' --delete -e 'ssh -p 45333' public/ $WEBHOST_OVH:drach-staging/public/
     rsync -rvzc --delete -e 'ssh -p 45333' public/.htaccess $WEBHOST_OVH:drach-staging/
   fi
 else
