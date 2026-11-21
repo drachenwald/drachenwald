@@ -21,6 +21,9 @@ then
     JEKYLL_ENV=staging bundle exec jekyll build -d public
     rsync -rvzc --exclude '.htaccess' --exclude '.htaccess-docker' --delete -e 'ssh -p 45333' public/ $WEBHOST_OVH:drach-staging/public/
     rsync -rvzc --delete -e 'ssh -p 45333' public/.htaccess $WEBHOST_OVH:drach-staging/
+  elif [ "$GITHUB_REF_NAME" == "dockerise" ]
+    echo "Building site for docker image"
+    JEKYLL_ENV=production bundle exec jekyll build -d public
   fi
 else
   echo "No branch specified"
