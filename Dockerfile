@@ -1,12 +1,4 @@
-FROM ruby:3.2
-VOLUME ["/build"]
-WORKDIR /build
-EXPOSE 4000
-RUN apt-get update && \
-    apt-get install -y locales git && \
-    locale-gen en_US.UTF-8 && \
-    localedef -i en_US -f UTF-8 en_US.UTF-8
-ENV LC_ALL="C.UTF-8"
-ENV LANG="en_US.UTF-8"
-ENV LANGUAGE="en_US.UTF-8"
-CMD bundle install && bundle exec jekyll serve --watch --host 0.0.0.0
+FROM httpd:2.4-alpine
+COPY public /usr/local/apache2/htdocs/
+COPY _httpd.conf /usr/local/apache2/conf/httpd.conf
+COPY public/.htaccess-docker /usr/local/apache2/htdocs/.htaccess
