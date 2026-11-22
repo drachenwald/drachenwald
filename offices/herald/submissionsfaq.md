@@ -150,65 +150,78 @@ The current PDF forms for armory submissions have a shortcoming; it is not possi
 
 All files, both submission forms and any documentation, must be 300 dpi (including any pictures used; please make sure that they are of equal quality!) and printable size, JPG or PDF. If you need to digitalize from paper, quality scans are required (e.g. photos are not acceptable).
 
-2.3.3 What do the fields on the form mean?
+#### 2.3.3 What do the fields on the form mean?
+
 How do I fill out the form for my name or household?
 How do I fill out the form for a branch name, order name, or guild name?
 How do I fill out the form for a device/arms or a badge?
-2.3.4 Who is my consulting herald?
+
+#### 2.3.4 Who is my consulting herald?
 Drachenwald does not require a submission to have or be submitted by a warranted consulting herald (some kingdoms do). If a particular herald has helped you with your submission, it is a good idea to mention them on the form - particularly if they have copies of your submission, armory pictures and/or the documentation. If there are problems with your submission, the consulting herald may be able to help in resolving them.
 
-2.4 Documentation
+#### 2.4 Documentation
 While the kingdom College of Heralds and College of Arms may assist with research and documentation, it is ultimately the submitter's responsibility to demonstrate that a submission meets the standards set forth in The Rules for Submissions; a complete lack of documentation can be cause for return.
 
-2.4.1 Do I need documentation for armory?
+##### 2.4.1 Do I need documentation for armory?
 Often no documentation is needed when submitting a device or a badge. However, there are cases when it is required. For example:
 
 If you're using a charge that has never been registered before.
 If you're using an individually attested pattern. Any armorial design that does not fit within our core style rules may still be registered if it can be documented as following a pattern of period practice within the armorial style of a single time and place within the temporal scope of the Society. (See SENA A.4..)
 If you're using a reserved charge (generally a reference to the kingdom order of precedence is sufficient). See Glossary of Terms Table 2 for a list.
-2.4.2 How do I include name documentation?
+
+##### 2.4.2 How do I include name documentation?
 All documentation must be summarized in the appropriate part of the form. Please remember that all name elements need to be documented to be plausible to have existed during our period, with photocopies from reliable books, or printouts from reliable web pages. However, if you use for documentation any of the books or websites listed in Sources That Do Not Require Photocopies to Laurel, you do not have to include photocopies, though you still need to summarize what the sources say. Please also note that if your documentation is in a language other than English, you must include a summary or translation in English.
 
-2.4.3. I need help documenting my name, where do I go?
+##### 2.4.3. I need help documenting my name, where do I go?
+
 There are a number of places where you can find help, including:
 
-heraldic consultation tables at events
-the SCA Heraldry Chat FB group (almost an online consultation table)
-your local herald
-one of the principality heralds (Silversparre, Rockall)
-one of the kingdom heralds (Schwarzdrachen, Edelweiss, Albion)
-the Drachenwald Heraldry FB group
-3. Paying for and sending the submission
+- heraldic consultation tables at events
+- the SCA Heraldry Chat FB group (almost an online consultation table)
+- your local herald
+- one of the principality heralds (Silversparre, Rockall)
+- one of the kingdom heralds (Schwarzdrachen, Edelweiss, Albion)
+- the Drachenwald Heraldry FB group
+
+#### 3. Paying for and sending the submission
+
 The official part of the submission process starts once your submission and a verification of submission fee(s) having been paid are received by Edelweiss Herald.
 
-3.1 My submissions paperwork is complete, where do I send it?
+##### 3.1 My submissions paperwork is complete, where do I send it?
 Please e-mail Edelweiss Herald at edelweiss@drachenwald.sca.org to send your digital files or for requesting the postal address.
 
-3.2 How much are the submission fees and how do I pay?
+##### 3.2 How much are the submission fees and how do I pay?
 Residents of Nordmark pay their fees via Nordmark accounts; rest of Drachenwald pays directly to Drachenwald College of Heralds.
 
-Nordmark
+###### Nordmark
 If you live in Nordmark, contact the Nordmark Exchequer at exchequer@nordmark.org for bank account details. The fee is 50 SEK for each submission item (for example, 50 SEK for a name + 50 SEK for a device = 100 SEK total).
 
-Drachenwald other than Nordmark
+###### Drachenwald other than Nordmark
 If you live anywhere in Drachenwald other than in Nordmark, submission fees are paid to the College of Heralds account, cared for by the Drachenwald Exchequer. The fee is is £4 or 5€ for each submission item (for example, for a name and device the total charge is £8 or 10€).
 
 After paying, please send an e-mail to Edelweiss Herald and Kingdom Exchequer (edelweiss@drachenwald.sca.org, exchequer@drachenwald.sca.org) briefly stating what you paid for. For example: "I just paid for name and device submissions for [SCA name], the payer should show as [payer's legal name]." This will help us very much in connecting payments with received submissions!
 
-Details for UK payments
+##### Details for UK payments
 
+```
 Kingdom of Drachenwald
-HSBC
+Bank: HSBC
 Account Number: 91484060
 Sort Code: 40-47-34
-Details for paying outside UK
+```
 
+##### Details for paying outside UK
+
+```
 IBAN: GB49MIDL40473491484060
 BIC / SWIFT Code: MIDLGB2165G
 Account Name: SCA - Kingdom of Drachenwald
 Bank's Address: 2 North Walk, Yate, Bristol BS37 4AR
 Bank: HSBC
-4. What happens next?
+```
+
+#### 4. What happens next?
+
 Edelweiss assembles your submission into a letter to a group of volunteer heralds who check it over at a local level (mostly within Drachenwald). This letter allows us to do any necessary extra research, pick up problems quickly and also to educate local heralds to help each other prior to submissions. The local heralds send their comments to Albion herald. (If you would like to become involved in this process please get in touch with Edelweiss.)
 
 One month later Albion assembles these responses and decides which submissions are complete, and which ones need further work. The successful submissions proceed to the next stage of review by the Society College of Arms (outside the kingdom). Albion writes back to those needing further work, to explain how the submitter can improve their submission and its chance of registration.

@@ -57,7 +57,7 @@ The External Submissions Herald sends Letters of Intent (ie 'Unless you say othe
 The fee is is £5 / 5€ / 50 SEK for each submission item.  
 For example, for a name and device the total fee is £10 / 10€ / 100 SEK.  
 
-Residents of Sweden pay their fees to a Swedish account. Contact the Nordmark Exchequer (aka the Swedish treasurer) at exchequer@nordmark.org for bank account details.
+Information on how the residents of Sweden pay can be found at the [Nordmark heraldic web](https://heraldik.nordmark.org/submissions/#Hur_betalar_jag_och_till_vem) You can also contact Nordmark's exchequer: exchequer@nordmark.org 
 
 Everyone else in Europe pays directly to kingdom exchequer, who looks after the College of Heralds account. Note: the payment details are slightly different within UK than rest of Europe. 
 

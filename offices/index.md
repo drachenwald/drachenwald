@@ -15,6 +15,8 @@ These pages provide the forms, handbooks and guidance for local and regional off
 
 * [Seneschal]({{ site.baseurl }}{% link offices/seneschal/index.md %}) is the 'president' of a branch, responsible for ensuring the kingdom runs according to both local real-world laws, and the Society's own laws and customs.
 
+* [Diversity, Equity, Inclusion and Belonging (DEIB) Officer]({{ site.baseurl }}{% link offices/deib/index.md %}) encourages and promotes diversity, equity, inclusion and belonging in the kingdom, supports the Code of Conduct, and works to make our events and activities accessible and welcoming to everyone.
+
 * [Exchequer]({{ site.baseurl }}{% link offices/exchequer/index.md %}) keeps the books balanced and ensures branches report their local funds accurately.
 
 * [Chatelaine]({{ site.baseurl }}{% link offices/chatelaine/index.md %}) welcomes new members, encourages branches to make time and space for newcomers, and supports new branches starting out. 
@@ -45,6 +47,7 @@ These pages provide the forms, handbooks and guidance for local and regional off
 Drachenwald is home to several groups which hold charters of the Crown, as guilds and schools. While they have the patronage of the Crown, the groups define their own ranks and entry requirements, and bestow their own recognitions for gaining skills.
 
 * [Drachenwald Academy of Defence]({{ site.baseurl }}{% link chartergroups/academy-of-defence/index.md %}) 
+* [Drachenwald Company of Archers]({{ site.baseurl }}{% link chartergroups/company-of-archers/index.md %})
 * [Society of the Golden Egg]({{ site.baseurl }}{% link chartergroups/golden-egg/index.md %})
 * [Drachenwald Cooks Guild]({{ site.baseurl }}{% link chartergroups/cooks-guild/index.md %})
 * [Practical Drachenwald]({{ site.baseurl }}{% link chartergroups/practical-drachenwald/index.md %})

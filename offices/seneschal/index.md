@@ -13,7 +13,7 @@ This council works with the Kingdom Seneschal's office and the Crown to assist w
 More information about the Law Council and current Law Council work is found on the [Law Council page]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}).  
 
 ## Diversity, Equity, and Inclusion (DEI) Council
-This council helps maintain Drachenwald's Code of Conduct policy and acts as a resource within Drachenwald for education about DEI matters.  Council members may be contacted by using the dei@drachenwald.sca.org email address.  See the [DEI Council]({{ site.baseurl}}{% link offices/seneschal/diversity-equity-inclusion-council.md %}) page for more information. 
+The DEI Council has been disbanded. Its work is now carried out by the Diversity, Equity, Inclusion and Belonging (DEIB) Officer, who may be contacted by using the deib@drachenwald.sca.org email address.  See the [DEIB Officer]({{ site.baseurl }}{% link offices/deib/index.md %}) page for more information, or the [former DEI Council]({{ site.baseurl}}{% link offices/seneschal/diversity-equity-inclusion-council.md %}) page for historical information. 
 
 ## Policy and Resource Documents
 

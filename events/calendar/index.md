@@ -11,9 +11,15 @@ The calendar contains our events. As there is a lot of activity in Drachenwald, 
 * [Central (Germany, Belgium, Austria, Netherlands, Bulgaria, ...) Calendar](https://central.drachenwald.org/#/)
 * [Past Events]({{ site.baseurl }}{% link events/pastevents.md %})
 
+* [Nordmark (Sweden) full calendar, including local activities ](https://nordmark.org/kalendarium/nordmarks-kalender/#/)
+* [Aarnimetsä (Finland) full calendar, including local activities](https://www.aarnimetsa.org/tapahtumakalenteri/#/)
+* [Insulae Draconis (UK and Ireland) full calendar, including local activities](https://insulaedraconis.org/events/#/)
+* [Central Region (rest of Europe), full calendar, including local activities](https://central.drachenwald.org)
+
 
 {% if jekyll.environment == "production" %}
 <div  id="calendar"
+      localevents="none"
       legend="true"
       links="local"
       bidlinks="true"
@@ -21,6 +27,7 @@ The calendar contains our events. As there is a lot of activity in Drachenwald, 
 <script type="text/javascript" src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js"></script>
 {% elsif jekyll.environment == "staging" %}
 <div  id="calendar"
+      localevents="none"  
       legend="true"
       links="local"
       bidlinks="true"
@@ -29,6 +36,7 @@ The calendar contains our events. As there is a lot of activity in Drachenwald, 
 <script type="text/javascript" src="https://sca-drachenwald.gitlab.io/events-calendar/calendar.js"></script>
 {% elsif jekyll.environment == "development" %}
 <div  id="calendar"
+      localevents="none"
       legend="true"
       links="local"
       bidlinks="true"

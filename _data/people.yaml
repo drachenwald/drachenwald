@@ -27,3 +27,5 @@ offices:
     longname: "Signet"
   - shortname: "socialmedia"
     longname: "Social Media Minister"
+  - shortname: "deib"
+    longname: "DEIB Officer"

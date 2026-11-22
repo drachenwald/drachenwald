@@ -280,7 +280,12 @@ defaults:
     scope:
       path: "offices/socialmedia"
     values:
-      officer: "socialmedia"    
+      officer: "socialmedia"
+  -
+    scope:
+      path: "offices/deib"
+    values:
+      officer: "deib"
   -
     scope:
       path: ""

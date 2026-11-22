@@ -1,5 +1,5 @@
 ---
-title: The Story of Abion
+title: The Story of Albion
 excerpt: A tale from the prinicpality years
 ---
 
