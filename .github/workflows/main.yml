@@ -73,6 +73,6 @@ jobs:
     - name: Deploy docker sites
       env:
         SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
-        OVH_PRIVATE: ${{ secrets.DWDOCKER_PRIVATE }}
-        WEBHOST_OVH: ${{ secrets.DWDOCKER_HOST }}
+        DWDOCKER_PRIVATE: ${{ secrets.DWDOCKER_PRIVATE }}
+        DWDOCKER_HOST: ${{ secrets.DWDOCKER_HOST }}
       run: _bin/docker-deploy.sh
